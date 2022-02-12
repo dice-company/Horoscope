@@ -35,7 +35,7 @@ body {
   padding: 10px;
   border-radius: 5px;
   border: 1px solid rgb(168, 170, 241);
-  color: lightgray;
+  color: rgb(66, 66, 66);
 }
 .form-check {
   margin-top: 20px;
